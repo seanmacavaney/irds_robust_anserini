@@ -15,7 +15,7 @@ loaded from source files:
  - `macavaney:anserini-trec-robust04/fold5`
 
 The query and qrels handlers are taken from the original `trec-robust04` dataset.
-The only differene is the docs handler.
+The only difference is the docs handler.
 
 ## Sample usage
 
